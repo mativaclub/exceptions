@@ -10,5 +10,4 @@ public class ExceptionsApplication {
 		SpringApplication.run(ExceptionsApplication.class, args);
 	}
 
-
 }
